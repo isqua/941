@@ -1,0 +1,20 @@
+:root {
+  font: 18px/145% system-ui, 'Helvetica', 'Segoe UI', Roboto, sans-serif;
+}
+
+html, body {
+  background-color: #000;
+  color: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100%;
+}
+
+#app {
+  font-size: 35vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: 900;
+}
